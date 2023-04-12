@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+ [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ninny9988)](https://solved.ac/profile/ninny9988)
+ 
+ 
+ 
 <!--
 **seunggi99/seunggi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
