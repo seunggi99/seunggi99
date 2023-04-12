@@ -1,10 +1,11 @@
 ### Hi there 👋
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunggi99&show_icons=true&theme=dark)
 
- [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ninny9988)](https://solved.ac/profile/ninny9988)
- 
- 
- 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ninny9988)](https://solved.ac/ninny9988)
+
+
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunggi99&layout=compact&theme=dark)
 **seunggi99/seunggi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
