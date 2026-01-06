@@ -30,9 +30,9 @@
 > 
 > ##### 간략소개 : 아이돌 생일 카페·이벤트 정보를 등록·탐색·공유하는 팬 커뮤니티 플랫폼
 > 
-> ##### 📆 기간 : 202.05.07 ~ 진행중
+> ##### 📆 기간 : 2025.05.07 ~ 진행중
 >
-> ##### 😀 참여자 : <a href="https://github.com/seunggi99">김승기(BE)<a>,<a href="https://github.com/leedahye2001">이다혜(FE)<a>, 박다윤(기획), 안예린(디자인)
+> ##### 😀 참여자 : <a href="https://github.com/seunggi99">김승기(BE)<a>,<a href="https://github.com/leedahye2001">이다혜(FE)<a>,박다윤(기획),안예린(디자인)
 >
 > ##### 담당업무 : [백엔드&인프라] 실서비스 백엔드 설계 및 운영을 포함한 핵심 기능 개발 담당
 >  
@@ -44,7 +44,7 @@
 > 
 > ##### 📆 기간 : 2024.01.26 ~ 2024.06.12
 >
-> ##### 😀 참여자 : <a href="https://github.com/seunggi99">김승기(BE)<a>,<a href="https://github.com/zzihoos">신지호(FE)<a>, <a href="https://github.com/psun0610">박선영(FE)<a>
+> ##### 😀 참여자 : <a href="https://github.com/seunggi99">김승기(BE)<a>,<a href="https://github.com/zzihoos">신지호(FE)<a>,<a href="https://github.com/psun0610">박선영(FE)<a>
 >
 > ##### 담당업무 : [백엔드] 도메인 모델링 및 API 설계, 인증/인가 구현, 추천 로직 및 외부 API 연동, 데이터베이스 설계
 >  
