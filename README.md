@@ -49,3 +49,20 @@
 > ##### 담당업무 : [백엔드] 도메인 모델링 및 API 설계, 인증/인가 구현, 추천 로직 및 외부 API 연동, 데이터베이스 설계
 >  
 > ##### GitHub - Repository ▶  <a href="https://github.com/seunggi99/YoriZori">`BackEnd`<a> <a href="https://github.com/psun0610/YoriZori">`FrontEnd`<a>
+
+
+## 🤖 AI-Assisted Project (AI 페어 프로그래밍 프로젝트)
+
+#### 🧮 총무야 (Chongmuya)
+> 
+> ##### 간략소개 : 등산·취미 모임의 회차별 경비 정산과 연간 결산을 자동화한 웹 서비스
+> 
+> ##### 📆 기간 : 2026.06.15 ~ 2026.06.17
+>
+> ##### 😀 참여자 : <a href="https://github.com/seunggi99">김승기(1인 개발 · 기획/설계/FE/BE/배포)<a>
+>
+> ##### 담당업무 : [전체] Claude Code를 페어 프로그래밍 도구로 활용, 데이터 모델링·핵심 회계 로직·아키텍처 의사결정·디버깅을 직접 주도하여 기획부터 배포까지 단독 수행
+>  
+> ##### 핵심 : 통장 뷰 / 결산 뷰 분리(선입금·선지급 교차 회차 귀속 집계), 은행 거래내역 자동 파싱(엑셀·PDF·암호파일), 일지 PDF 출력
+>  
+> ##### GitHub - Repository ▶  <a href="https://github.com/seunggi99/Chongmuya">`Repository`<a>  |  Live ▶ <a href="https://chongmuya-demo.vercel.app">`Demo`<a>
