@@ -64,7 +64,7 @@
 >  
 > ##### 핵심 : 구성편향 보정 시세 집계(전용면적 평당가 정규화·중위값·동일단지 고정윈도 변동률), 지도 기반 탐색(시군구 버블↔단지 마커 줌 전환·뷰포트 로딩·클러스터링), 공공데이터 수집 파이프라인(신고지연 재수집·중복 제거), AI 시장 요약(계산 통계 기반 grounded 요약·캐시)
 >  
-> ##### GitHub - Repository ▶  <a href="https://github.com/seunggi99/SiseRadar">`Repository`<a>  |  Live ▶ <a href="https://siseradar.vercel.app">`Demo`<a>
+> ##### GitHub - Repository ▶  <a href="https://github.com/seunggi99/SiseRadar">`Repository`<a>  |  Live ▶ <a href="https://sise-radar.vercel.app">`Demo`<a>
 
 #### 🧮 총무야 (Chongmuya)
 > 
